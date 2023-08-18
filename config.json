@@ -1,5 +1,5 @@
 {
-    "baseurl": "https://ru-faq-uk.netlify.app/",
+    "baseurl": "https://ru-faq.co.uk/",
     "languageCode": "ru-ru",
     "defaultContentLanguage": "ru",
     "title": "ru-uk FAQ",
@@ -17,8 +17,8 @@
     "params": {
         "title": "Полезная информация о жизни в Великобритании",
         "description": "Полезная информация о жизни в Великобритании",
-        "github_repository": "https://github.com/ru-faq-uk",
-        "github_doc_repository": "https://github.com/ru-faq-uk",
+        "github_repository": "https://github.com/khalyapov/ru-faq-uk",
+        "github_doc_repository": "https://github.com/khalyapov/ru-faq-uk",
         "github_doc_repository_path": "content/",
         "rssFullContent": true,
         "menu_style": "open-menu"
