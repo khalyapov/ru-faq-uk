@@ -13,7 +13,8 @@ PR-реквеста,
 тему hugo:
 
   ```
-  git clone --recurse-submodules https://github.com/ru-faq-uk.git
+  git clone --recurse-submodules 
+https://github.com/khalyapov/ru-faq-uk.git
   cd ru-faq-uk
   ```
 3. Запустите `hugo server`, чтобы получить доступ к сайту
