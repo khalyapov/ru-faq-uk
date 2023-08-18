@@ -1,5 +1,0 @@
-baseURL = 'https://ru-faq.co.uk/'
-languageCode = 'ru-ru'
-title = 'ru-uk FAQ'
-rssLimit = 100
-theme = 'hugo-theme-techdoc'

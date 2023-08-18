@@ -1,0 +1,26 @@
+{
+    "baseurl": "https://ru-faq.co.uk/",
+    "languageCode": "ru-ru",
+    "defaultContentLanguage": "ru",
+    "title": "ru-uk FAQ",
+    "theme": "hugo-theme-techdoc",
+    "rssLimit": 100,
+    "enableGitInfo": true,
+    "markup": {
+        "tableOfContents": {
+            "startLevel": 2,
+            "endLevel": 4,
+            "ordered": false
+        }
+    },
+    "disableKinds": ["taxonomy", "term"],
+    "params": {
+        "title": "Полезная информация о жизни в Великобритании",
+        "description": "Полезная информация о жизни в Великобритании",
+        "github_repository": "https://github.com/ru-faq-uk",
+        "github_doc_repository": "https://github.com/ru-faq-uk",
+        "github_doc_repository_path": "content/",
+        "rssFullContent": true,
+        "menu_style": "open-menu"
+    }
+}

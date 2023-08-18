@@ -1,9 +1,8 @@
 ---
 title: "My First Post"
 date: 2023-08-18T16:32:33+01:00
-draft: true
+draft: false
 ---
-
 ## Introduction
 
 This is **bold** text, and this is *emphasized* text.
